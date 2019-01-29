@@ -10,7 +10,7 @@ import android.widget.EditText;
 
 public class FeetToMetersActivity extends AppCompatActivity implements OnClickListener {
 
-    @Override
+
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_feet_to_meters);
